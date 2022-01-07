@@ -2,7 +2,7 @@
 taejung api
 
 # BASE_URL
-API의 BASE URL 
+API BASE URL 
 ```css
 https://api.taejung.kro.kr/
 ```
