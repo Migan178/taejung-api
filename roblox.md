@@ -1,7 +1,7 @@
 # TAEJUNG API
 ## 로블록스 유저정보
 ```css
-weather/${name}
+/roblox/${name}
 ```
 출력
 ```css
