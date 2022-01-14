@@ -2,7 +2,7 @@
 ## 랜덤 nsfw 이미지
 성인 이미지입니다 사용을 주의해주세요
 ```css
-/meme/basic
+/meme/nsfw
 ```
 출력
 ```css
