@@ -1,7 +1,7 @@
 # TAEJUNG API
 ## 지역날씨정보
 ```css
-/roblox/${name}
+/weather/${name}
 ```
 출력
 ```css
